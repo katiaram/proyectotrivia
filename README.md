@@ -1,0 +1,3 @@
+# proyectotrivia
+
+![](trabajoequipo.png)
